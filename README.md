@@ -1,8 +1,8 @@
-# Rust [<img alt="Rust logo" width="50" src="assets/rust.svg">](https://www.rust-lang.org/)
+# Rust [<img alt="Rust logo" width="30" src="assets/rust.svg">](https://www.rust-lang.org/)
 
-<img align="right" alt="Rust logo" width="200" src="assets/rust-1.svg">
-<img align="right" alt="Rust Logo" width="200" src="assets/rust-2.svg">
-<img align="right" alt="Rust Logo" width="200" src="assets/rust-3.svg">
+[<img align="right" alt="Rust logo" width="200" src="assets/rust-1.svg">](https://doc.rust-lang.org/book/ch00-00-introduction.html#ferris)
+[<img align="right" alt="Rust Logo" width="200" src="assets/rust-2.svg">](https://doc.rust-lang.org/book/ch00-00-introduction.html#ferris)
+[<img align="right" alt="Rust Logo" width="200" src="assets/rust-3.svg">](https://doc.rust-lang.org/book/ch00-00-introduction.html#ferris)
 
 ## Table of Contents
 

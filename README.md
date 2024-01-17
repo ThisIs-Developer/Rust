@@ -1,4 +1,4 @@
-# Rust
+# Rust <img align="right" alt="Java Logo" width="200" src="assets/rust-1.svg">
 ## Table of Contents
 
 - [About](#about)

@@ -1,4 +1,4 @@
-# Rust 
+# Rust [<img alt="Java Logo" width="30" src="assets/rust">](https://www.rust-lang.org/)
 <img align="right" alt="Java Logo" width="200" src="assets/rust-1.svg">
 <img align="right" alt="Java Logo" width="200" src="assets/rust-2.svg">
 <img align="right" alt="Java Logo" width="200" src="assets/rust-3.svg">

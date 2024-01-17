@@ -31,5 +31,5 @@ $ cargo build
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/ThisIs-Developer/Rust/blob/main/LICENSE).
 
